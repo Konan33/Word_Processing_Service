@@ -1,2 +1,2 @@
-# Word-Processing-Service
-[TEKY] Basic example application with Vietnamese's display
+# Word Processing Service
+[TEKY] Basic application for Python string example with Vietnamese's display
